@@ -1,0 +1,346 @@
+body
+{
+	background-image: url("../GRAFIKA/tło.png");
+	background-repeat: no-repeat;
+	background-color: black;
+	background-attachment: fixed;
+    background-position: top; 
+	
+}
+.container
+{
+	margin: auto;
+	width: 1849px; 
+}
+header
+{
+	text-align: center;
+	background-color: #211858;
+	color: #802A15;
+	padding: 15px;
+	width: 1820px;
+	
+}
+nav
+{
+	height: 54px;
+	border-color: #2c1f7b;
+	background-color: #524737;
+	border-width: 4px;
+	border-style: solid;
+	border-top: 0px;
+	width: 1841px;
+}
+article
+{
+	float: left;
+	height: 900px;
+	padding: 45px;
+	border: solid #2C1F7B 4px;
+	width: 1752px;
+}
+.f
+{
+	clear: both;
+	width: 0px;
+	height: 0px;
+}
+footer
+{
+	background-color: #1f1f1f;
+	color: white;
+	clear: both;
+	width: 1800px;
+	padding: 25px;
+	margin: auto;
+	text-align: center;
+	font-size: 20px;
+}
+
+#back
+{
+	float: right;
+	color: white;
+	padding: 5px;
+	border: solid 1px white;
+}
+#back:hover
+{
+	background-color: white;
+	color: black;
+}
+#back:active
+{
+	background-color: white;
+	color: blue;
+	
+}
+
+#formcontainer
+{
+	margin: auto;
+	width: 1000px;
+	padding: 25px;
+	color: white;
+}
+#formdata
+{
+	text-align: center;
+}
+.introduction
+{
+	font-size: 25px;
+	margin-bottom: 50px;
+}
+#gallery1
+{   
+	margin: auto;
+	width: 1500px;
+	height: 700px;
+	padding: 40px;
+}
+figure
+{
+	float:left;
+	margin: 20px;
+}
+.gallery2
+{
+	margin: auto;
+	width: 1200px;
+	height: 800px;
+	padding: 20px;
+	float: left;
+}
+aside
+{
+	float: left;
+	height: 800px;
+}
+table
+{
+	width: 500px;
+	height: 700px;
+	border: solid #000000 3px;
+	font-size: 20px;
+	margin: auto;
+}
+td
+{
+	border: solid #000000 1px;
+	text-align: center;
+}
+ol
+{
+	margin: auto;
+	text-align: left;
+	font-size: 20px;
+}
+ul
+{
+	font-size: 20px;
+}
+
+h3
+{
+	font-size: 25px;
+	margin-top: 5px;
+}
+th
+{
+	border: solid #000000 1px;
+	font-weight: normal;
+}
+.feedback
+{
+	float: right;
+	width: 100px;
+	height: 40px;
+	text-align: center;
+	margin: auto;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #211858;
+	color: black;
+	padding-top: 10px;
+	background-color: #847a70;
+}
+.wiki
+{
+	float: right;
+	width: 100px;
+	height: 40px;
+	text-align: center;
+	margin: auto;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #211858;
+	color: black;
+	padding-top: 10px;
+	border-left-width: 4px;
+	background-color: #847a70;
+}
+
+.icon
+{
+	border-width: 2px;
+	float: left;
+	width: 100px;
+	height: 30px;
+	text-align: center;
+	margin-top: 21px;
+	border-bottom-width: 0px;
+	border-style: solid;
+	border-color: #211858;
+	color: black;
+	background-color: #555655;
+}
+.fullicon
+{
+	border-width: 2px;
+	float: left;
+	width: 100px;
+	height: 35px;
+	text-align: center;
+	border-bottom-width: 0px;
+	border-style: solid;
+	border-color: #211858;
+	color: black;
+	padding-top: 10px;
+	margin-top: 6px;
+	background-color: #555655;
+
+}
+.iconMercury
+{
+	border-width: 2px;
+	float: left;
+	width: 100px;
+	height: 30px;
+	text-align: center;
+	margin-top: 22px;
+	border-bottom-width: 0px;
+	border-style: solid;
+	border-color: #211858;;
+	color: black;
+	background-color: #8b6c5c;
+	
+}
+.fulliconMercury
+{
+	border-width: 2px;
+	float: left;
+	width: 100px;
+	height: 35px;
+	text-align: center;
+	border-bottom-width: 0px;
+	border-style: solid;
+	border-color: #211858;
+	color: black;
+	padding-top: 10px;
+	margin-top: 7px;
+	background-color: #8b6c5c;
+
+}
+.iconVenus
+{
+	border-width: 2px;
+	float: left;
+	width: 100px;
+	height: 30px;
+	text-align: center;
+	margin-top: 22px;
+	border-bottom-width: 0px;
+	border-style: solid;
+	border-color: #211858;;
+	color: black;
+	background-color: #828059;
+	
+}
+.fulliconVenus
+{
+	border-width: 2px;
+	float: left;
+	width: 100px;
+	height: 35px;
+	text-align: center;
+	border-bottom-width: 0px;
+	border-style: solid;
+	border-color: #211858;
+	color: black;
+	padding-top: 10px;
+	margin-top: 7px;
+	background-color: #828059;
+
+}
+.iconEarth
+{
+	border-width: 2px;
+	float: left;
+	width: 100px;
+	height: 30px;
+	text-align: center;
+	margin-top: 22px;
+	border-bottom-width: 0px;
+	border-style: solid;
+	border-color: #211858;
+	color: black;
+	background-color: #54698e;
+	
+}
+.fulliconEarth
+{
+	border-width: 2px;
+	float: left;
+	width: 100px;
+	height: 35px;
+	text-align: center;
+	border-bottom-width: 0px;
+	border-style: solid;
+	border-color: #211858;
+	color: black;
+	padding-top: 10px;
+	margin-top: 7px;
+	background-color: #54698e;
+
+}
+.iconMars
+{
+	border-width: 2px;
+	float: left;
+	width: 100px;
+	height: 30px;
+	text-align: center;
+	margin-top: 22px;
+	border-bottom-width: 0px;
+	border-style: solid;
+	border-color: #211858;;
+	color: black;
+	background-color: #894f2c;
+	
+}
+.fulliconMars
+{
+	border-width: 2px;
+	float: left;
+	width: 100px;
+	height: 35px;
+	text-align: center;
+	border-bottom-width: 0px;
+	border-style: solid;
+	border-color: #211858;
+	color: black;
+	padding-top: 10px;
+	margin-top: 7px;
+	background-color: #894f2c;
+
+}
+img
+{
+	border: solid black 3px;
+}
+.field
+{
+	background-color: #a0a0a0;
+	border: solid 1px #a0a0a0;
+}
